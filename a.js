@@ -1,1 +1,1 @@
-console.log("Hello, world - from feature 1");
+console.log("Hello, world - from feature 2");
